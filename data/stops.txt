@@ -1,0 +1,50 @@
+stop_id,stop_name,stop_lat,stop_lon
+1,Galle Main Bus Station,6.0351,80.2158
+2,Fort Railway Station,6.0328,80.2161
+3,Unawatuna Beach,6.009,80.25
+4,Galle Dutch Fort,6.0241,80.217
+5,Galle Lighthouse,6.025,80.219
+6,Japanese Peace Pagoda - Rumassala,6.0183,80.2414
+7,Sea Turtle Hatchery Centre,6.0513,80.2172
+8,St. Mary's Cathedral,6.0345,80.2198
+9,Galle International Cricket Stadium,6.0372,80.2164
+10,Hikkaduwa Beach,6.1408,80.1044
+11,Sinharaja Forest Reserve,6.4053,80.4021
+12,Galle Fort Clock Tower,6.0286,80.2151
+13,Dutch Reformed Church,6.0282,80.2152
+14,Flag Rock Bastion,6.025,80.2164
+15,Meeran Jumma Mosque,6.0257,80.2188
+16,Yatagala Raja Maha Viharaya,6.0481,80.237
+17,Maritime Museum,6.0281,80.2173
+18,Old Dutch Hospital,6.0258,80.2175
+19,Fort Entrance (Old Gate),6.0294,80.2182
+20,National Museum Galle,6.0284,80.2172
+21,Historical Mansion Museum,6.0279,80.2172
+22,Sri Sudharmalaya Buddhist Temple,6.0282,80.2168
+23,All Saints' Church Galle - Church of Ceylon,6.028,80.2159
+24,Jungle Beach,6.0162,80.2392
+25,Lighthouse Beach,6.025,80.2189
+26,Tsunami Honganji Viharaya,6.1461,80.1156
+27,Martin Wickramasinghe Folk Museum,5.995,80.3245
+28,Galle Library,6.0279,80.2172
+29,Coconut Tree Hill,5.9448,80.4531
+30,Black Fort,6.025,80.217
+31,Utrecht Bastion,6.0251,80.2171
+32,Galle Harbor,6.032,80.2201
+33,Dalawella Beach,5.9938,80.2525
+34,Lighthouse Street,6.026,80.218
+35,Galle Fort Ambalama,6.029,80.2173
+36,Parrot Rock,6.0044,80.2516
+37,Handunugoda Tea Estate,5.9847,80.3376
+38,Rumassala Sanctuary,6.018,80.24
+39,Mihiripenna Beach,5.9944,80.2528
+40,Stilt Fisherman,6.0022,80.253
+41,Mirissa Beach,5.9484,80.4557
+42,Peraliya Tsunami Memorial Statue,6.1674,80.1086
+43,Koggala Beach,5.9938,80.34
+44,Narigama Beach,6.128,80.1018
+45,Koggala Lake,5.9994,80.3414
+46,Midigama Beach,5.9716,80.3954
+47,Akurala Beach,6.1824,80.0764
+48,Makumbura Junction,6.8278,79.9595
+49,5 Ways View Point Koggala,5.994,80.339

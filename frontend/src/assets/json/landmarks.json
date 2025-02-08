@@ -1,0 +1,402 @@
+[
+  {
+    "id": 0,
+    "landmark": "Galle Dutch Fort",
+    "latitude": 6.0241,
+    "longitude": 80.217,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FGalle%20Dutch%20Fort.jpg?alt=media&token=c1e603f9-aa4f-4a01-bdb9-78ac18c574a7",
+    "description": "A historic fortress built by the Dutch during the 17th century, known for its well-preserved architecture and stunning coastal views."
+  },
+  {
+    "id": 1,
+    "landmark": "Galle Fort Clock Tower",
+    "latitude": 6.0286,
+    "longitude": 80.2151,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FGalle%20Fort%20Clock%20Tower.jpg?alt=media&token=23c57d04-6a25-4bed-b967-d8e15179f8cb",
+    "description": "An iconic clock tower located at the entrance of Galle Fort, providing a glimpse into the town's colonial past."
+  },
+  {
+    "id": 2,
+    "landmark": "Japanese Peace Pagoda - Rumassala",
+    "latitude": 6.0183,
+    "longitude": 80.2414,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FJapanese%20Peace%20Pagoda%20-%20Rumassala.jpg?alt=media&token=08b0ce4e-f03d-4c3e-878e-4716a73f8c35",
+    "description": "A serene Buddhist stupa offering panoramic views of Galle and the surrounding coastline, symbolizing peace and harmony."
+  },
+  {
+    "id": 3,
+    "landmark": "Galle Lighthouse",
+    "latitude": 6.025,
+    "longitude": 80.219,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FGalle%20Lighthouse.jpg?alt=media&token=7682c066-e0b7-44cc-a2a4-3bc0ca502360",
+    "description": "A historic lighthouse located at the edge of Galle Fort, built in 1939, and still operational today."
+  },
+  {
+    "id": 4,
+    "landmark": "Dutch Reformed Church",
+    "latitude": 6.0282,
+    "longitude": 80.2152,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FDutch%20Reformed%20Church.jpg?alt=media&token=b666d21b-179e-4667-8b6c-c78e724bbfdc",
+    "description": "A well-preserved church built in 1755, showcasing the Dutch colonial architectural style."
+  },
+  {
+    "id": 5,
+    "landmark": "Flag Rock Bastion | Galle Dutch Fort",
+    "latitude": 6.025,
+    "longitude": 80.2164,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FFlag%20Rock%20Bastion%20-%20Galle%20Dutch%20Fort.jpg?alt=media&token=76d5917f-f8d4-4b62-992b-d369fa1a4ad6",
+    "description": "A bastion offering stunning views of the sea, where flags were historically raised to signal ships."
+  },
+  {
+    "id": 6,
+    "landmark": "Galle International Cricket Stadium",
+    "latitude": 6.0372,
+    "longitude": 80.2164,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FGalle%20International%20Cricket%20Stadium.jpg?alt=media&token=ec8b08a6-f084-49a8-b4d8-4661802524e8",
+    "description": "A modern cricket stadium situated near the coast, known for its picturesque location and international matches."
+  },
+  {
+    "id": 7,
+    "landmark": "Meeran Jumma Mosque",
+    "latitude": 6.0257,
+    "longitude": 80.2188,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FMeeran%20Jumma%20Mosque.jpg?alt=media&token=4436a6f3-84e0-436e-9ecf-1d9b6a05ddd8",
+    "description": "A historic mosque reflecting the architectural influences of Muslim culture in Galle."
+  },
+  {
+    "id": 8,
+    "landmark": "Yatagala Raja Maha Viharaya",
+    "latitude": 6.0481,
+    "longitude": 80.237,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FYatagala%20Raja%20Maha%20Viharaya.jpg?alt=media&token=aec4e582-2788-43ff-be58-48e49574f637",
+    "description": "An ancient Buddhist temple located on a hill, surrounded by lush greenery and known for its tranquility."
+  },
+  {
+    "id": 9,
+    "landmark": "Maritime Museum",
+    "latitude": 6.0281,
+    "longitude": 80.2173,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FMaritime%20Museum.JPG?alt=media&token=0e8c6011-8ccc-4cba-aedc-5746e19d10de",
+    "description": "A museum showcasing the maritime history of Galle and the surrounding region, with various artifacts and exhibits."
+  },
+  {
+    "id": 10,
+    "landmark": "Sea Turtle Hatchery Centre, Mahamodara",
+    "latitude": 6.0513,
+    "longitude": 80.2172,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FSea%20Turtle%20Hatchery%20Centre%2C%20Mahamodara.jpg?alt=media&token=5b1547e2-618c-466a-9fb2-460da6be8b6f",
+    "description": "A conservation center dedicated to the protection and rehabilitation of sea turtles, educating visitors about marine life."
+  },
+  {
+    "id": 11,
+    "landmark": "Old Dutch Hospital",
+    "latitude": 6.0258,
+    "longitude": 80.2175,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FOld%20Dutch%20Hospital.jpg?alt=media&token=077d9231-e21b-45fb-8695-3e8049b27c4f",
+    "description": "A historic hospital building that has been converted into a shopping and dining precinct, reflecting the colonial past."
+  },
+  {
+    "id": 12,
+    "landmark": "Fort Entrance (Old Gate)",
+    "latitude": 6.0294,
+    "longitude": 80.2182,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FFort%20Entrance%20(Old%20Gate).jpg?alt=media&token=d06cadb3-a43d-4c53-97f3-8e7aac0443e2",
+    "description": "The main entrance to Galle Fort, featuring impressive gates and a glimpse into the fort's rich history."
+  },
+  {
+    "id": 13,
+    "landmark": "National Museum Galle",
+    "latitude": 6.0284,
+    "longitude": 80.2172,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FNational%20Museum%20Galle.jpg?alt=media&token=502eb40e-503a-493b-bfb4-dbe605873777",
+    "description": "A museum showcasing the cultural heritage of Galle and its surroundings, featuring various historical artifacts."
+  },
+  {
+    "id": 14,
+    "landmark": "Historical Mansion Museum",
+    "latitude": 6.0279,
+    "longitude": 80.2172,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FHistorical%20Mansion%20Museum.jpg?alt=media&token=ced6ec25-6cd7-497f-8aa6-8d16b6aa52d8",
+    "description": "A beautifully preserved mansion that provides insights into the lifestyle of the colonial elite."
+  },
+  {
+    "id": 15,
+    "landmark": "Dutch Hospital - Shopping Precinct",
+    "latitude": 6.0258,
+    "longitude": 80.2175,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FDutch%20Hospital%20-%20Shopping%20Precinct.jpg?alt=media&token=80bde6a5-5331-4925-ae90-c8658b208ebe",
+    "description": "A vibrant shopping precinct located in a historic hospital, featuring local crafts and dining options."
+  },
+  {
+    "id": 16,
+    "landmark": "Sri Sudharmalaya Buddhist Temple",
+    "latitude": 6.0282,
+    "longitude": 80.2168,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FSri%20Sudharmalaya%20Buddhist%20Temple.jpg?alt=media&token=5a20c357-b9be-448f-897d-31889e75c964",
+    "description": "A beautiful Buddhist temple known for its serene atmosphere and intricate architecture."
+  },
+  {
+    "id": 17,
+    "landmark": "Sinharaja Forest Reserve",
+    "latitude": 6.4053,
+    "longitude": 80.4021,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FSinharaja%20Forest%20Reserve.jpg?alt=media&token=f83573d9-f90c-469f-8ed0-39c8aba9afe6",
+    "description": "A UNESCO World Heritage site, this rainforest is home to diverse flora and fauna, offering hiking trails."
+  },
+  {
+    "id": 18,
+    "landmark": "All Saints' Church, Galle - Church of Ceylon",
+    "latitude": 6.028,
+    "longitude": 80.2159,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FAll%20Saints'%20Church%2C%20Galle%20-%20Church%20of%20Ceylon.jpg?alt=media&token=f21c7fbc-21d6-4193-9932-6faf74e05e7c",
+    "description": "An Anglican church built in the 19th century, known for its beautiful architecture and stained glass windows."
+  },
+  {
+    "id": 19,
+    "landmark": "Jungle Beach",
+    "latitude": 6.0162,
+    "longitude": 80.2392,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FJungle%20Beach.jpg?alt=media&token=72c241a0-2c94-44a8-bc95-b6de0094de40",
+    "description": "A secluded beach surrounded by lush jungle, perfect for swimming and relaxing away from the crowds."
+  },
+  {
+    "id": 20,
+    "landmark": "St. Mary's Cathedral",
+    "latitude": 6.0345,
+    "longitude": 80.2198,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FSt.%20Mary's%20Cathedral.jpg?alt=media&token=24362d03-1b7f-438d-8cfc-5a235906a2fd",
+    "description": "A stunning cathedral known for its gothic architecture and peaceful ambiance."
+  },
+  {
+    "id": 21,
+    "landmark": "Unawatuna Beach",
+    "latitude": 6.009,
+    "longitude": 80.25,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FUnawatuna%20Beach.jpg?alt=media&token=95996cd3-d171-4c61-a066-e63d771b6dbd",
+    "description": "A popular beach destination known for its golden sands and vibrant nightlife."
+  },
+  {
+    "id": 22,
+    "landmark": "Lighthouse Beach",
+    "latitude": 6.025,
+    "longitude": 80.2189,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FLighthouse%20Beach.jpg?alt=media&token=b453ca5e-168b-4d52-8662-1b34a0522543",
+    "description": "A beautiful beach near Galle Fort, known for its clear waters and picturesque views of the lighthouse."
+  },
+  {
+    "id": 23,
+    "landmark": "Tsunami Honganji Viharaya (big Buddha statue)",
+    "latitude": 6.1461,
+    "longitude": 80.1156,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FTsunami%20Honganji%20Viharaya%20(big%20Buddha%20statue).jpg?alt=media&token=59628973-649b-4b6d-9285-2f1e5b662e2f",
+    "description": "A striking Buddhist statue that serves as a memorial for the victims of the tsunami."
+  },
+  {
+    "id": 24,
+    "landmark": "Martin Wickramasinghe Folk Museum",
+    "latitude": 5.995,
+    "longitude": 80.3245,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FMartin%20Wickramasinghe%20Folk%20Museum.jpg?alt=media&token=d84d122b-b9b9-4831-b194-aa3d613456b3",
+    "description": "A museum dedicated to the cultural heritage of Sri Lanka, showcasing local crafts and traditions."
+  },
+  {
+    "id": 25,
+    "landmark": "Galle Library",
+    "latitude": 6.0279,
+    "longitude": 80.2172,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FGalle%20Library.jpg?alt=media&token=76169667-b934-4b1f-bf0a-ad92e4188ee8",
+    "description": "A historic library offering a collection of books and manuscripts, reflecting Galle's literary heritage."
+  },
+  {
+    "id": 26,
+    "landmark": "Coconut Tree Hill",
+    "latitude": 5.9448,
+    "longitude": 80.4531,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FCoconut%20Tree%20Hill.jpeg?alt=media&token=bf58cd79-be74-4622-8e06-ca613ac306cf",
+    "description": "A picturesque hill adorned with coconut trees, offering stunning views of the coastline."
+  },
+  {
+    "id": 27,
+    "landmark": "Black Fort",
+    "latitude": 6.025,
+    "longitude": 80.217,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FBlack%20Fort.jpg?alt=media&token=da565458-91b6-4c44-be47-a342831fd4e2",
+    "description": "A historical fortification built during the Dutch colonial era, featuring scenic views of Galle."
+  },
+  {
+    "id": 28,
+    "landmark": "Utrecht Bastion",
+    "latitude": 6.0251,
+    "longitude": 80.2171,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FUtrecht%20Bastion.jpg?alt=media&token=f3928484-07b3-42e5-9a56-49125af5eb11",
+    "description": "Part of the Galle Fort, this bastion offers a glimpse into the colonial past and stunning coastal views."
+  },
+  {
+    "id": 29,
+    "landmark": "Galle Harbor",
+    "latitude": 6.032,
+    "longitude": 80.2201,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FGalle%20Harbor.jpg?alt=media&token=84f13427-488f-4e9c-b9ff-32eeee17bc53",
+    "description": "A bustling harbor known for its vibrant fishing community and picturesque sunsets."
+  },
+  {
+    "id": 30,
+    "landmark": "Dalawella Beach",
+    "latitude": 5.9938,
+    "longitude": 80.2525,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FDalawella%20Beach.jpg?alt=media&token=a195454a-9f90-42a3-91eb-4fa9a462dad0",
+    "description": "A tranquil beach renowned for its clear waters and soft golden sand, perfect for relaxation."
+  },
+  {
+    "id": 31,
+    "landmark": "Lighthouse Street",
+    "latitude": 6.026,
+    "longitude": 80.218,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FLighthouse%20Street.jpg?alt=media&token=57358266-5717-4110-9de6-0b6dbb6554be",
+    "description": "A charming street lined with shops and cafes, showcasing the beauty of colonial architecture."
+  },
+  {
+    "id": 32,
+    "landmark": "Galle Fort Ambalama",
+    "latitude": 6.029,
+    "longitude": 80.2173,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FGalle%20Fort%20Ambalama.jpg?alt=media&token=9bc92abc-c403-448b-8889-4e8185d58e19",
+    "description": "A historical rest house within Galle Fort, perfect for a quick break while exploring."
+  },
+  {
+    "id": 33,
+    "landmark": "Parrot Rock",
+    "latitude": 6.0044,
+    "longitude": 80.2516,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FParrot%20Rock.jpg?alt=media&token=6c285be9-6013-49ff-b3cf-8dc85462edad",
+    "description": "A rocky outcrop offering breathtaking views of the Indian Ocean, popular for photography."
+  },
+  {
+    "id": 34,
+    "landmark": "Handunugoda Tea Estate",
+    "latitude": 5.9847,
+    "longitude": 80.3376,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FHandunugoda%20Tea%20Estate.JPG?alt=media&token=89ddce38-a125-4514-a8dc-d68e8abcba30",
+    "description": "A picturesque tea estate known for its high-quality tea and scenic landscapes."
+  },
+  {
+    "id": 35,
+    "landmark": "Rumassala Sanctuary",
+    "latitude": 6.018,
+    "longitude": 80.24,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FRumassala%20Sanctuary.jpg?alt=media&token=2cc39d6b-2eba-45f9-a34c-88e6bf990af6",
+    "description": "A beautiful nature reserve with a variety of flora and fauna, ideal for hiking and birdwatching."
+  },
+  {
+    "id": 36,
+    "landmark": "Hikkaduwa Beach",
+    "latitude": 6.1408,
+    "longitude": 80.1044,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FHikkaduwa%20Beach.jpg?alt=media&token=07134163-e464-4e08-887b-113338b8cff9",
+    "description": "A popular beach destination known for its vibrant coral reefs and exciting water sports."
+  },
+  {
+    "id": 37,
+    "landmark": "Thalpe Beach",
+    "latitude": 5.9968,
+    "longitude": 80.274,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FThalpe%20Beach.jpg?alt=media&token=348f4718-470f-470c-ac03-77b68205ae44",
+    "description": "A serene beach known for its calm waters, perfect for swimming and sunbathing."
+  },
+  {
+    "id": 38,
+    "landmark": "Dhawalagiri Garden",
+    "latitude": 6.0348,
+    "longitude": 80.2261,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FDhawalagiri%20Garden.jpg?alt=media&token=e5008a74-f680-4b41-bdcc-2f42080c77b2",
+    "description": "A beautifully landscaped garden featuring a variety of plants and flowers, ideal for relaxation."
+  },
+  {
+    "id": 39,
+    "landmark": "Mihiripenna Beach",
+    "latitude": 5.9944,
+    "longitude": 80.2528,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FMihiripenna%20Beach.jpg?alt=media&token=def1abb7-0836-4563-8654-b5d957efa0e6",
+    "description": "A hidden gem beach known for its soft sand and tranquil atmosphere."
+  },
+  {
+    "id": 40,
+    "landmark": "Stilt Fisherman",
+    "latitude": 6.0022,
+    "longitude": 80.253,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FStilt%20Fisherman.jpg?alt=media&token=0c3d39bd-90a3-42cc-b147-02f73039cfad",
+    "description": "A unique fishing method practiced by local fishermen, offering a glimpse into traditional fishing."
+  },
+  {
+    "id": 41,
+    "landmark": "Mirissa Beach",
+    "latitude": 5.9484,
+    "longitude": 80.4557,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FMirissa%20Beach.jpg?alt=media&token=63bcbfc8-da54-412e-bc12-85abb8bf73d9",
+    "description": "A vibrant beach popular for whale watching and lively beach bars."
+  },
+  {
+    "id": 42,
+    "landmark": "Peraliya Tsunami Memorial Statue",
+    "latitude": 6.1674,
+    "longitude": 80.1086,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FPeraliya%20Tsunami%20Memorial%20Statue.jpg?alt=media&token=f7c21a0e-6bff-4ba0-9782-3895c1d3db6c",
+    "description": "A poignant memorial commemorating the lives lost in the 2004 tsunami."
+  },
+  {
+    "id": 43,
+    "landmark": "Koggala Beach",
+    "latitude": 5.9938,
+    "longitude": 80.34,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FKoggala%20Beach.jpg?alt=media&token=11594271-4b48-4f54-af30-8cef799d6f90",
+    "description": "A serene beach known for its calm waters and beautiful landscapes."
+  },
+  {
+    "id": 44,
+    "landmark": "Narigama Beach",
+    "latitude": 6.128,
+    "longitude": 80.1018,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FNarigama%20Beach.jpg?alt=media&token=c768bc45-9b0c-47d0-babd-a919e3a27f9e",
+    "description": "A beach with stunning waves, popular among surfers."
+  },
+  {
+    "id": 45,
+    "landmark": "Koggala Lake",
+    "latitude": 5.9994,
+    "longitude": 80.3414,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FKoggala%20Lake.jpg?alt=media&token=df606b4d-4381-44ee-8512-d91020b35317",
+    "description": "A tranquil lake surrounded by lush greenery, ideal for boat rides."
+  },
+  {
+    "id": 46,
+    "landmark": "Midigama Beach",
+    "latitude": 5.9716,
+    "longitude": 80.3954,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FMidigama%20Beach.jpg?alt=media&token=744ac7a7-7ccb-4275-93b8-b572c6c84598",
+    "description": "A quiet beach known for its relaxed atmosphere and beautiful sunsets."
+  },
+  {
+    "id": 47,
+    "landmark": "Akurala Beach",
+    "latitude": 6.1824,
+    "longitude": 80.0764,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FAkurala%20Beach.jpg?alt=media&token=3d43b65a-ec9f-4bc4-8fe0-41599f6fe3b4",
+    "description": "A secluded beach perfect for a peaceful getaway."
+  },
+  {
+    "id": 48,
+    "landmark": "Makumbura Junction",
+    "latitude": 6.8278,
+    "longitude": 79.9595,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2FMakumbura%20Junction.jpg?alt=media&token=6ca47adf-937d-4884-91b4-e414c3695244",
+    "description": "A busy junction known for its lively atmosphere and local vendors."
+  },
+  {
+    "id": 49,
+    "landmark": "5 Ways View Point Koggala",
+    "latitude": 5.994,
+    "longitude": 80.339,
+    "image": "https://firebasestorage.googleapis.com/v0/b/wanderwiise.appspot.com/o/landmarks%2F5%20Ways%20View%20Point%20Koggala.jpg?alt=media&token=1c94295c-4951-4822-b686-931861db321c",
+    "description": "A stunning viewpoint offering panoramic views of the surrounding area."
+  }
+]

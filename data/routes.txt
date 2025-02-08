@@ -1,0 +1,9 @@
+route_id,agency_id,route_short_name,route_long_name,route_type,route_color
+1,1,101,Galle City Heritage,3,FF5733
+2,1,102,Galle to Unawatuna,3,33FF57
+3,1,103,Galle to Hikkaduwa,3,3357FF
+4,1,104,Fort Heritage,3,FF5733
+5,1,105,Galle to Sinharaja,3,FF33A1
+6,1,106,Landmarks Express,3,FFBD33
+7,1,107,Coastal Line,3,33A1FF
+8,1,108,Religious & Cultural,3,A1FF33
